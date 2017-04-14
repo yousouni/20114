@@ -5,7 +5,7 @@ public class test1 {
 		System.out.println("박유순");
 		System.out.println("박하은");
 		System.out.println("헤헷");
-		System.out.println("사댱행");
+		System.out.println("사댱행 ");
 		
 
 	}
